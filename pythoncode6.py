@@ -1,7 +1,7 @@
-p=1000
+P=1000
 R=5
 T=2
-if (p*R*T==10000):
-    print("Simple Interest:",p*R*T/100)
+if (P*R*T==10000):
+    print("Simple Interest:",P*R*T/100)
 else:
     print("Is not a Simple Interest:",P*R*T)
